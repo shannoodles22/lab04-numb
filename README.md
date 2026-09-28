@@ -1,1 +1,4 @@
-# lab04-numb
+# Lab 04 - Automated Software Testing
+
+## Group Name
+numb
